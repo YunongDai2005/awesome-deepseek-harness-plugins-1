@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "YunongDai2005/dsh-theone",
+  "name": "dsh-theone",
+  "repository": "https://github.com/YunongDai2005/dsh-theone",
+  "category": "session",
+  "description": {
+    "en": "Adds one main chat to the sidebar. Each message is routed to the topic it belongs to and continued in that topic's own background session, in the topic's project folder. A topic workspace groups the topics; a misrouted message can be moved to another topic and the move undone. Earlier sessions are left unchanged.",
+    "zh": "在侧边栏加一个主聊天。每条消息会被分到所属话题，在该话题自己的后台会话和项目文件夹里继续。话题工作区按分组列出话题；分错的消息可以换到别的话题，换过也能撤销。原有会话保持不变。"
+  },
+  "added": "2026-10-20"
+}
